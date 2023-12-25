@@ -1,0 +1,16 @@
+.main {
+    margin-left: 110px;
+}
+
+@media screen and (min-width: 768px) {
+    .main {
+        margin-left: 80px;
+        margin-right: 25px;
+    }
+}
+@media screen and (max-width: 375px) {
+    .main {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}

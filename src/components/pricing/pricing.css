@@ -3,20 +3,6 @@
     align-items: center;
 }
 
-@media screen and (max-width: 375px) {
-    .pricing-container {
-        grid-template-columns: repeat(1, 1fr);
-    }
-
-    .pricing-item {
-        margin-bottom: 1.5rem;
-        padding: 1.2rem 2rem !important;
-    }
-    .pricing-img {
-        width: 30%;
-    }
-}
-
 .pricing-item {
     padding: 1.875rem 2.5rem;
     background-color: var(--container-color);

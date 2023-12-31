@@ -23,7 +23,7 @@ const data = [
     image: Img3,
     title: "Photography",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "Lorem ipsum dolor sit amet consectetuer adipiscing elit   aenean commodo ligula eget.",
   },
 ];
 

@@ -7,15 +7,6 @@
     column-gap: 1.875rem;
 }
 
-@media screen and (max-width: 375px) {
-    .contact-container {
-        grid-template-columns: repeat(1, 1fr);
-    }
-    .contact-in {
-        margin-bottom: 1.5rem;
-    }
-}
-
 .contact-title {
     font-size: var(--h3-font-size);
     margin-bottom: .5rem;

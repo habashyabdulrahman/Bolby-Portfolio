@@ -20,33 +20,6 @@
     gap: 1.875rem;
 }
 
-@media screen and (max-width: 768px) {
-    .work-container {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .work-filters {
-        column-gap: .900rem;
-    }
-
-    .work-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 1rem;
-    }
-
-    .work-img {
-        width: 100%;
-        margin-bottom: 0;
-    }
-
-    .work-button {
-        bottom: 0.5rem !important;
-        left: 7rem !important;
-    }
-}
-
 .work-card {
     position: relative;
     overflow: hidden;

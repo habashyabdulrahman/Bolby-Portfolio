@@ -6,17 +6,6 @@
     justify-content: center;
 }
 
-@media screen and (max-width: 768px) {
-    .home {
-        min-height: 70vh;
-    }
-}
-@media screen and (max-width: 375px) {
-    .home {
-        min-height: 64vh;
-    }
-}
-
 .intro {
     max-width: 540px;
     text-align: center;

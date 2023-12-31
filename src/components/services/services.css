@@ -7,19 +7,6 @@
     column-gap: 1.875rem;
 }
 
-@media screen and (max-width: 375px) {
-    .services-container {
-        grid-template-columns: repeat(1, 1fr) !important;
-    }
-    .services-card {
-        margin-bottom: 1.5rem;
-        padding: 1.4rem;
-    }
-    .services-img {
-        width: 30%;
-    }
-}
-
 .services-card {
     text-align: center;
     padding: 1.875rem;
